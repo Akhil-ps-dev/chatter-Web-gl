@@ -1,6 +1,10 @@
 <h1 align="center" id="title">Web GL Fluid Simulation</h1>
 
-<p id="description">Simple fluid flow simulation created with Web GL and Js check out : http://akhilps.me/chatter-Web-gl/</p>
+<p id="description">Simple fluid flow simulation created with Web GL and Js
+
+check out : http://akhilps.me/chatter-Web-gl/</p>
+
+Inspired by : https://haxiomic.github.io/GPU-Fluid-Experiments/html5/
 
 <h2>🚀 Demo</h2>
 
